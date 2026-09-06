@@ -16,7 +16,7 @@
 ### `VAULT-TEC PERSONNEL TERMINAL // ROBCO INDUSTRIES (TM)`
 ### `> LOADING USER PROFILE...`
 
-<img src="./vault-boy.png" width="180" alt="Vault Boy" />
+<img src="./vault-boy.png.png" width="180" alt="Vault Boy" />
 
 `> "Everything's gonna be A-OK!"`
 
