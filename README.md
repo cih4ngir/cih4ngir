@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a08,45:00ff41,100:001a08&height=190&section=header&text=VAULT-TEC%20TERMLINK&fontColor=0d1117&fontSize=42&fontAlignY=34&font=JetBrains+Mono&desc=CIH4NGIR%20%20%E2%80%A2%20%20BACKEND%20%26%20AI%20SYSTEMS%20ENGINEER&descAlignY=56&descSize=16"/>
+<img src="./assets/header.svg" width="100%" alt="VAULT-TEC TERMLINK"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3400&pause=900&color=00FF41&center=true&vCenter=true&width=820&lines=%3E+PYTHON+%C2%B7+FASTAPI+%C2%B7+LANGGRAPH+%C2%B7+LOCAL+LLM+AGENTS;%3E+I+BUILD+SYSTEMS+THAT+SURVIVE+CONTACT+WITH+PRODUCTION;%3E+CURRENTLY%3A+SHIPPING+AN+LLM+AGENT+INTO+AN+ERP+MIGRATION" alt="terminal"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&section=header" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -23,7 +23,7 @@
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&section=header" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## `[ DWELLER PROFILE ]`
 
@@ -39,7 +39,7 @@ Most of my work lives at the hard edge of software: multi-system integrations, a
 | **HOME VAULT** | Istanbul, TR — open to remote / relocation |
 | **OPERATING PRINCIPLE** | Ship it, measure it, then make it boring |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&section=header" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## `[ SIGNATURE HOLOTAPE ]`
 
@@ -79,7 +79,7 @@ Migrating an ERP means first answering a question nobody can answer: **what is a
 
 **Why it matters:** local inference means regulated enterprise data never leaves the network. The adapter pattern means the tool keeps working *during* a gradual migration instead of breaking on day one.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&section=header" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## `[ S.P.E.C.I.A.L. ]`
 
@@ -93,7 +93,7 @@ Migrating an ERP means first answering a question nobody can answer: **what is a
 | **A** | AGILITY | `▰▰▰▰▰▰▰▰▱▱` | RPA & low-code delivery — killing manual work at the root |
 | **L** | LUCK | `▰▰▰▰▱▱▱▱▱▱` | Deploying on Friday and living to tell the tale |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&section=header" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## `[ PERK CHART ]`
 
@@ -140,7 +140,7 @@ Migrating an ERP means first answering a question nobody can answer: **what is a
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&section=header" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## `[ QUEST LOG ]`
 
@@ -169,30 +169,35 @@ Migrating an ERP means first answering a question nobody can answer: **what is a
 └──────────────────────────────────────────────────────────────┴──────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&section=header" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## `[ PIP-BOY DIAGNOSTICS ]`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cih4ngir&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41&border_radius=6&include_all_commits=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cih4ngir&layout=compact&langs_count=8&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=00ff41&border_color=00ff41&border_radius=6"/>
+<img src="https://img.shields.io/github/followers/cih4ngir?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/github/stars/cih4ngir?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117&color=0d1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcih4ngir&query=%24.public_repos&style=for-the-badge&label=REPOS&logo=github&logoColor=00FF41&labelColor=0d1117&color=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=cih4ngir&label=TERMINAL%20ACCESS&color=00ff41&style=for-the-badge"/>
 
 <br/><br/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=cih4ngir&hide_border=false&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=00aa2b&border_radius=6"/>
 
-<br/><br/>
+<!-- ─────────────────────────────────────────────────────────────────────────
+     STATS CARDS — currently disabled.
+     The public github-readme-stats / trophy / activity-graph instances on
+     Vercel are paused or rate-limited. Deploy your own instance, replace
+     YOUR-INSTANCE below with its domain, and uncomment this block.
 
-<img src="https://github-profile-trophy.vercel.app/?username=cih4ngir&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img height="170" src="https://YOUR-INSTANCE.vercel.app/api?username=cih4ngir&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41&border_radius=6&include_all_commits=true&rank_icon=github"/>
+<img height="170" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=cih4ngir&layout=compact&langs_count=8&hide_border=false&bg_color=0d1117&title_color=00ff41&text_color=00ff41&border_color=00ff41&border_radius=6"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cih4ngir&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&hide_border=false&border_color=00ff41&custom_title=COMMIT%20RADIATION%20%E2%80%94%20LAST%2031%20DAYS"/>
+───────────────────────────────────────────────────────────────────────── -->
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&section=header" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## `[ ENGINEERING DOCTRINE ]`
 
@@ -205,7 +210,7 @@ Migrating an ERP means first answering a question nobody can answer: **what is a
 > The best system is the one nobody has to think about.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&section=header" width="100%"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## `[ RADIO FREQUENCIES ]`
 
@@ -215,14 +220,10 @@ Migrating an ERP means first answering a question nobody can answer: **what is a
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/></a>
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Transmit%20Signal-0d1117?style=for-the-badge&logo=maildotru&logoColor=00FF41"/></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=cih4ngir&label=TERMINAL%20ACCESS%20COUNT&color=00ff41&style=for-the-badge"/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&section=header" width="100%"/>
-
-**`WAR. WAR NEVER CHANGES. NEITHER DOES LEGACY CODE — UNTIL SOMEONE MIGRATES IT.`**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a08,45:00ff41,100:001a08&height=120&section=footer"/>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
