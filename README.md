@@ -54,11 +54,11 @@ LUCK         ██████░░░░  6   git push --force (survived)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&hide_border=true&bg_color=0d1117&title_color=41FF00&text_color=41FF00&icon_color=41FF00" />
+<img src="https://github-readme-stats.vercel.app/api?username=cih4ngir&show_icons=true&hide_border=true&bg_color=0d1117&title_color=41FF00&text_color=41FF00&icon_color=41FF00" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&hide_border=true&bg_color=0d1117&title_color=41FF00&text_color=41FF00" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cih4ngir&layout=compact&hide_border=true&bg_color=0d1117&title_color=41FF00&text_color=41FF00" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&hide_border=true&background=0d1117&ring=41FF00&fire=41FF00&currStreakLabel=41FF00" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cih4ngir&hide_border=true&background=0d1117&ring=41FF00&fire=41FF00&currStreakLabel=41FF00" />
 
 </div>
 
