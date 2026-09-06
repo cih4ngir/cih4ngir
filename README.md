@@ -78,8 +78,8 @@ LUCK         ██████░░░░  6   git push --force (survived)
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-41FF00?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117)](https://linkedin.com/in/cih4ngir)
-[![Mail](https://img.shields.io/badge/-Email-41FF00?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117)](mailto:mail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-41FF00?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117)](https://linkedin.com/in/cihangiraligil)
+[![Mail](https://img.shields.io/badge/-Email-41FF00?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117)](mailto:cihangiraligil@gmail.com)
 
 </div>
 
